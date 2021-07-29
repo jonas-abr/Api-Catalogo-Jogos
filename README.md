@@ -11,3 +11,6 @@ Linkedin:  [https://www.linkedin.com/in/jonas-abreu-841a97199](https://www.linke
 WebSite:  [https://jonas-abr.github.io/Portifolio/](https://jonas-abr.github.io/Portifolio/)
 
 Github:  [https://github.com/jonas-abr?tab=repositories](https://github.com/jonas-abr?tab=repositories)
+
+# ARQUITETURA QUE O BACK-END FOI MONTADO DESSA APLICAÇÃO:
+
