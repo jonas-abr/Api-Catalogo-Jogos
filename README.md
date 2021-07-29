@@ -15,6 +15,6 @@ Github:  [https://github.com/jonas-abr?tab=repositories](https://github.com/jona
 # ARQUITETURA DO BACK-END DESSA APLICAÇÃO:
 
 <p align="center">
-  <img alt="Quizz" src="https://github.com/jonas-abr/Api-Catalogo-Jogos/blob/main/img/Arquitetura.jpeg" width="500px"><br><br><br>
+  <img alt="Quizz" src="https://github.com/jonas-abr/Api-Catalogo-Jogos/blob/main/img/Arquitetura.jpeg" width="1000px"><br><br><br>
 </p>
 
